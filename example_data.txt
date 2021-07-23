@@ -1,0 +1,41 @@
+student_name,horoscope,exam_name,exam_score,feedback_score,would_recommend
+Braylen Natalia,Gemini,AWS Certified Cloud Practitioner,5.72,4.26,Yes
+Kash Macey,Leo,AWS Certified SysOps Administrator,5.33,3.04,Yes
+Erica Daniela,Sagittarius,AWS Certified Cloud Practitioner,7.57,7.61,Yes
+Radoslav Cari,Scorpio,AWS Certified Solutions Architect Associate,5.98,8.00,Yes
+Suzanne Chet,Virgo,AWS Certified Solutions Architect Associate,5.44,4.85,Yes
+Corbin Regena,Cancer,AWS Certified Solutions Architect Associate,5.50,3.24,Yes
+Beauden Morley,Sagittarius,AWS Certified Cloud Practitioner,9.13,5.92,Yes
+Lisette Randolf,Pisces,AWS Certified Cloud Practitioner,7.12,5.97,Yes
+Ashling Kenith,Pisces,AWS Certified SysOps Administrator,8.18,7.35,Yes
+Magdalene Johnathon,Libra,AWS Certified Cloud Practitioner,8.76,3.18,Yes
+Dallas Dominik,Pisces,AWS Certified Cloud Practitioner,5.93,7.00,Yes
+Dick Amity,Libra,AWS Certified Cloud Practitioner,6.23,3.97,Yes
+Maximilian Gyles,Gemini,AWS Certified Solutions Architect Associate,4.57,6.98,Yes
+Victor Siofra,Aries,AWS Certified Solutions Architect Associate,7.89,7.66,Yes
+Barbie Dáire,Capricorn,AWS Certified Cloud Practitioner,7.50,9.10,Yes
+Humbert Macie,Gemini,AWS Certified SysOps Administrator,6.61,4.27,Yes
+Colin Josephina,Aries,AWS Certified Cloud Practitioner,8.45,4.14,Yes
+Amy Beverley,Virgo,AWS Certified Cloud Practitioner,8.25,6.18,Yes
+Eldon Terrance,Aquarius,AWS Certified Cloud Practitioner,6.48,8.71,Yes
+Zuzka Winnie,Virgo,AWS Certified Cloud Practitioner,5.84,3.58,Yes
+Leyton Wallis,Scorpio,AWS Certified SysOps Administrator,6.85,9.11,Yes
+Treasure Pavlína,Cancer,AWS Certified Solutions Architect Associate,5.60,5.35,Yes
+Andrea Crispian,Taurus,AWS Certified SysOps Administrator,9.68,5.66,Yes
+Filip Berry,Aries,AWS Certified SysOps Administrator,5.05,8.43,Yes
+Hugh Alexej,Leo,AWS Certified Cloud Practitioner,6.41,5.40,Yes
+Macauley Tamara,Scorpio,AWS Certified Solutions Architect Associate,6.74,6.45,Yes
+Urška Ingomar,Sagittarius,AWS Certified Solutions Architect Associate,5.57,9.90,No
+Ardal Hyeon-Jeong,Libra,AWS Certified Solutions Architect Associate,5.32,6.97,No
+Huang Marjan,Taurus,AWS Certified SysOps Administrator,9.24,3.64,No
+Gernot Waltraud,Taurus,AWS Certified SysOps Administrator,2.46,3.78,No
+Marie Loïc,Virgo,AWS Certified Solutions Architect Associate,8.83,9.10,No
+Hilda Adriano,Leo,AWS Certified Solutions Architect Associate,7.96,3.73,No
+Alf Dalila,Leo,AWS Certified Cloud Practitioner,6.84,6.64,No
+Monika Lena,Sagittarius,AWS Certified Cloud Practitioner,6.39,5.03,No
+Janina Gisa,Libra,AWS Certified Cloud Practitioner,8.69,5.20,No
+Ceallagh Aurelijus,Taurus,AWS Certified Cloud Practitioner,6.23,4.17,No
+Wilhelmine Heng,Scorpio,AWS Certified Cloud Practitioner,5.03,7.94,No
+Brendan Ludvig,Gemini,AWS Certified Solutions Architect Associate,5.99,6.25,No
+Frederico Vester,Aries,AWS Certified Solutions Architect Associate,7.98,5.62,No
+Gwenaëlle Marius,Aquarius,AWS Certified Cloud Practitioner,6.88,4.03,No
