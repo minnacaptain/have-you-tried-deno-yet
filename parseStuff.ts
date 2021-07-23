@@ -1,4 +1,7 @@
-const getContent = () => Deno.readTextFile("./example_data.txt");
+const getContentFromInternet = () =>
+    fetch(
+        "https://raw.githubusercontent.com/minnacaptain/have-you-tried-deno-yet/master/example_data.txt",
+    ).then((t) => t.text());
 
 const calculateAverageScore = (getContent: () => Promise<string>) =>
     getContent().then((result) => {
@@ -9,4 +12,6 @@ const calculateAverageScore = (getContent: () => Promise<string>) =>
         return scores.reduce((a, c) => a + c) / scores.length;
     });
 
-console.log("Average score: " + await calculateAverageScore(getContent));
+console.log(
+    "Average score: " + await calculateAverageScore(getContentFromInternet),
+);
